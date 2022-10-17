@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Meter Conversion</string>
+    <string name="submit">SUBMIT</string>
+    <string name="enter_value">Enter Value</string>
+    <string name="result_will_be">Result will be:</string>
+    <string name="clear">cLEAR</string>
+</resources>
